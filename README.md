@@ -7,6 +7,8 @@ We created an automated pipeline that takes in new data, performs the appropriat
 
 ## Tools 
 
-Jupyter Notebook
-Pandas
-PostgreSql
+**Jupyter Notebook
+
+**Pandas
+
+**PostgreSql
